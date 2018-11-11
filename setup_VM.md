@@ -14,4 +14,4 @@ $ slcli vs list
 
 # Install Docker
 
-Go <a href=>Here</a>.
+Go <a href=https://github.com/kckenneth/YOLO/blob/master/setup_docker.md>Here</a>.
