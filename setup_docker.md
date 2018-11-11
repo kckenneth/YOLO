@@ -1,5 +1,7 @@
 # Docker Installation
 
+<a href=https://github.com/kckenneth/YOLO/blob/master/setup_VM.md><<Previous VM setup</a>
+
 Official documents on <a href=https://docs.docker.com/install/linux/docker-ce/ubuntu/>how to install Docker in Ubuntu.</a>
 
 We will do the following commands on our newly provisioned VM. First `ssh` into a new VM. Once you're in the VM, do the commands below.
