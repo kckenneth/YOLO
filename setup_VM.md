@@ -30,11 +30,6 @@ $ slcli vs credentials 65010160
 We will do the following commands on our newly provisioned VM. First `ssh` into a new VM. Once you're in the VM, update the Ubuntu. 
 ```
 # apt-get update
-# apt-get install \
-    apt-transport-https \
-    ca-certificates \
-    curl \
-    software-properties-common
 ```
 
 # Install Docker
