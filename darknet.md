@@ -15,6 +15,9 @@ Once we're in the container, run the following to check the dog, horse and perso
 
 ## Results
 For dog image
+<p align="center">
+<img src="img/dog.jpg" width="800"></p>
+<p align="center">Figure 1. Dog image</p>
 ```
 Loading weights from yolov3.weights...Done!
 data/dog.jpg: Predicted in 29.806422 seconds.
@@ -24,6 +27,9 @@ bicycle: 99%
 ```
 
 For horses image
+<p align="center">
+<img src="img/spark_workers.png" width="800"></p>
+<p align="center">Figure 2. Horses image</p>
 ```
 Loading weights from yolov3.weights...Done!
 data/horses.jpg: Predicted in 30.402975 seconds.
@@ -34,6 +40,9 @@ horse: 95%
 ```
 
 For person image
+<p align="center">
+<img src="img/spark_workers.png" width="800"></p>
+<p align="center">Figure 3. Person</p>
 ```
 Loading weights from yolov3.weights...Done!
 data/person.jpg: Predicted in 30.276133 seconds.
