@@ -35,6 +35,10 @@ horse: 95%
 
 For person image
 ```
-
+Loading weights from yolov3.weights...Done!
+data/person.jpg: Predicted in 30.276133 seconds.
+horse: 100%
+dog: 99%
+person: 100%
 ```
 
