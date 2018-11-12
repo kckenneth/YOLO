@@ -85,4 +85,4 @@ RUN wget https://pjreddie.com/media/files/yolov3.weights
 ```
 
 # Spin up Docker
-We will spin up docker container which will launch in bash mode. Go <a href=>Here</a>.
+We will spin up docker container which will launch in bash mode. Go <a href=https://github.com/kckenneth/YOLO/blob/master/darknet.md>Here</a>.
