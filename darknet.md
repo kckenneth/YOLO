@@ -16,7 +16,7 @@ Once we're in the container, run the following to check the dog, horse and perso
 ## Results
 For dog image
 <p align="center">
-<img src="img/dog.jpg" width="800"></p>
+<img src="img/dog.jpg" width="500"></p>
 <p align="center">Figure 1. Dog image</p>
 ```
 Loading weights from yolov3.weights...Done!
@@ -28,7 +28,7 @@ bicycle: 99%
 
 For horses image
 <p align="center">
-<img src="img/spark_workers.png" width="800"></p>
+<img src="img/horses.jpg" width="500"></p>
 <p align="center">Figure 2. Horses image</p>
 ```
 Loading weights from yolov3.weights...Done!
@@ -41,7 +41,7 @@ horse: 95%
 
 For person image
 <p align="center">
-<img src="img/spark_workers.png" width="800"></p>
+<img src="img/person.jpg" width="500"></p>
 <p align="center">Figure 3. Person</p>
 ```
 Loading weights from yolov3.weights...Done!
